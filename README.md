@@ -1,2 +1,12 @@
 # Bootcamp-Projects-
-This project was built with the goal of providing the user with a choice of a financial calculator. This calculator was built using Python which provided the user with two choices, to calculate the investment value of x amount of years or to calculate their monthly bond repayment
+## Folder Contents
+
+This repository contains different code projects, including:
+
+1. Student Register Project: This project focuses on managing student records and information.
+
+2. Finance Calculator: A set of scripts to perform various financial calculations.
+
+3. GUI Calculator: An interactive graphical user interface calculator application.
+
+Feel free to explore each project's folder for more details and code samples.

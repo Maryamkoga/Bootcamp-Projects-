@@ -18,3 +18,12 @@ print(f"\n{author} once said, \"{quote}\"")
 famous_person = "PFlo"
 message = f"\n{famous_person} once said, \"{quote}\""
 print(message)
+
+# ex 2.7 - adding/removing whitespace
+new_name = " eric nam "
+print("\teric nam")
+print("\neric nam")
+print(new_name)
+print(new_name.lstrip())
+print(new_name.rstrip())
+print(new_name.strip())

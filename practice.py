@@ -27,3 +27,8 @@ print(new_name)
 print(new_name.lstrip())
 print(new_name.rstrip())
 print(new_name.strip())
+
+# ex 2.8 - add/remove suffixes
+filename = "python_notes.txt"
+filename = filename.removesuffix(".txt")
+print(f"\n{filename}")
